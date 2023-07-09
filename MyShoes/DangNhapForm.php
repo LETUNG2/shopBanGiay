@@ -1,3 +1,9 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Đăng nhập</title>
+<link rel="icon" type="image/x-icon" href="../img/icon.PNG">
 <?php
 
   require "../connect.php";		$check = false;

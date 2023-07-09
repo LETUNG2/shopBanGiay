@@ -2,7 +2,8 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Untitled Document</title>
+<title>Trang chủ</title>
+<link rel="icon" type="image/x-icon" href="../img/icon.PNG">
 <style>
 	* {
 		margin: 0;

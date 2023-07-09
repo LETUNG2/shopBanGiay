@@ -8,6 +8,7 @@
     <link rel="stylesheet" type="text/css" href="./css/giohang.css">
     <link rel="stylesheet" type="text/css" href="./css/hd.css">
     <link rel="stylesheet" href="./icon/themify-icons/themify-icons.css">
+    <link rel="icon" type="image/x-icon" href="../img/icon.PNG">
     <title>Giỏ hàng</title>
 </head>
 

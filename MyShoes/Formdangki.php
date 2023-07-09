@@ -1,3 +1,9 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Đăng ký</title>
+<link rel="icon" type="image/x-icon" href="../img/icon.PNG">
 <?php 
 	require "../connect.php";
 	if(isset($_POST['submit']))

@@ -8,6 +8,8 @@
     <link rel="stylesheet" href="MyShoes/css/hd.css">
     <link rel="stylesheet" href="MyShoes/css/trangchu.css">
     <link rel="stylesheet" type="text/css" href="MyShoes/css/ft.css">
+    <link rel="icon" type="image/x-icon" href="./img/icon.PNG">
+
     <title>MyShoes</title>
 </head>
 
